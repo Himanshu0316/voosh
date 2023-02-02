@@ -1,0 +1,75 @@
+ [
+    {
+
+      "img": "https://b.zmtcdn.com/data/pictures/chains/1/18789671/60a54473336615b9ef0b87adeb7ada02_o2_featured_v2.jpg?output-format=webp",
+      "name": "rice",
+      "category": "indian",
+      "cost": "120",
+      "id": 1
+    },
+    {
+
+      "img": "https://b.zmtcdn.com/data/pictures/chains/9/2500369/f5761a0b030eaa235a3eabba217551a3_o2_featured_v2.jpg",
+      "name": "Pizza",
+      "category": "indian",
+      "cost": "120",
+      "id": 2
+    },
+    {
+
+      "img": "https://b.zmtcdn.com/data/pictures/8/19660698/e5e219039d516a3affc5d24409541429_o2_featured_v2.jpg",
+      "name": "Pasta",
+      "category": "indian",
+      "cost": "120",
+      "id": 3
+    },
+    {
+
+      "img": "https://b.zmtcdn.com/data/pictures/chains/1/18789671/60a54473336615b9ef0b87adeb7ada02_o2_featured_v2.jpg?output-format=webp",
+      "name": "rice",
+      "category": "indian",
+      "cost": "120",
+      "id": 4
+    },
+    {
+
+      "img": "https://b.zmtcdn.com/data/pictures/chains/9/2500369/f5761a0b030eaa235a3eabba217551a3_o2_featured_v2.jpg",
+      "name": "Pizza",
+      "category": "indian",
+      "cost": "120",
+      "id": 5
+    },
+    {
+
+      "img": "https://b.zmtcdn.com/data/pictures/8/19660698/e5e219039d516a3affc5d24409541429_o2_featured_v2.jpg",
+      "name": "Pasta",
+      "category": "indian",
+      "cost": "120",
+      "id": 6
+    },
+    {
+
+      "img": "https://b.zmtcdn.com/data/pictures/chains/1/18789671/60a54473336615b9ef0b87adeb7ada02_o2_featured_v2.jpg?output-format=webp",
+      "name": "rice",
+      "category": "indian",
+      "cost": "120",
+      "id": 7
+    },
+    {
+
+      "img": "https://b.zmtcdn.com/data/pictures/chains/9/2500369/f5761a0b030eaa235a3eabba217551a3_o2_featured_v2.jpg",
+      "name": "Pizza",
+      "category": "indian",
+      "cost": "120",
+      "id": 8
+    },
+    {
+
+      "img": "https://b.zmtcdn.com/data/pictures/8/19660698/e5e219039d516a3affc5d24409541429_o2_featured_v2.jpg",
+      "name": "Pasta",
+      "category": "indian",
+      "cost": "120",
+      "id": 9
+    }
+   
+  ]
